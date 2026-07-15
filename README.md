@@ -1,14 +1,13 @@
 # Bellabeat Case Study: How Smart Device Data Can Shape Marketing Strategy
 
 ## Overview
-This is a self-directed case study analyzing smart device usage data to uncover 
-insights that could inform marketing strategy for Bellabeat, a wellness technology 
-company. Using the FitBit Fitness Tracker dataset, this project follows the full 
-data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
+This case study looks at smart device usage data to find insights that could 
+shape marketing strategy for Bellabeat, a wellness technology company. Using 
+the FitBit Fitness Tracker dataset, I worked through the full data analysis 
+process that is, Ask, Prepare, Process, Analyze, Share, and Act.
 
-Bellabeat, a health-focused smart device company, wants to better understand how 
-consumers use non-Bellabeat smart devices, then apply those insights to one of 
-its own products — the Leaf tracker.
+Bellabeat wants to understand how people use smart devices in general, then 
+apply what's learned to one of its own products, the Leaf tracker.
 
 ## Business Task
 Bellabeat is a wellness technology company who wants a better understanding of how consumers use non-Bellabeat devices in their daily lives. These insights will be then used to help identify the trends that can inform Bellabeat's marketing strategy for one of its products
@@ -16,7 +15,7 @@ Bellabeat is a wellness technology company who wants a better understanding of h
 Full details: [docs/business_task.md](docs/business_task.md)
 
 ## Data Source
-FitBit Fitness Tracker Data whihc is made available on Kaggle through Möbius.
+FitBit Fitness Tracker Data whihc is made available on Kaggle through Mobius.
 License: CC0: Public Domain.
 Few Limitations:
 - Small, non-representative sample size, only 30 users
