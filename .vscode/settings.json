@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Bellabeat",
+            "database": "${workspaceFolder:bellabeat-case-study}/sql/bellabeat.db"
+        }
+    ]
+}
